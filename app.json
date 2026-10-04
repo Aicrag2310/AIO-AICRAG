@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Google Chrome",
+    "Description": "Navegador web rápido y seguro de Google.",
+    "Category": "Navegadores Web",
+    "Type": "WinGet",
+    "PathOrId": "Google.Chrome",
+    "Arguments": "--silent",
+    "Preset": "Basico",
+    "Icon": "https://cdn-icons-png.flaticon.com/512/888/888846.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "Mozilla Firefox",
+    "Description": "Navegador web enfocado en la privacidad.",
+    "Category": "Navegadores Web",
+    "Type": "WinGet",
+    "PathOrId": "Mozilla.Firefox",
+    "Arguments": "--silent",
+    "Preset": "Basico",
+    "Icon": "https://cdn-icons-png.flaticon.com/512/5968/5968827.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "LibreOffice",
+    "Description": "Suite de ofimática gratuita y código abierto.",
+    "Category": "Ofimática & Documentos",
+    "Type": "WinGet",
+    "PathOrId": "TheDocumentFoundation.LibreOffice",
+    "Arguments": "--silent",
+    "Preset": "Oficina",
+    "Icon": "https://cdn-icons-png.flaticon.com/512/888/888874.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "Visual Studio Code",
+    "Description": "Editor de código fuente ligero y potente.",
+    "Category": "Ofimática & Documentos",
+    "Type": "WinGet",
+    "PathOrId": "Microsoft.VisualStudioCode",
+    "Arguments": "--silent",
+    "Preset": "Oficina",
+    "Icon": "https://cdn-icons-png.flaticon.com/512/906/906324.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "VLC Media Player",
+    "Description": "Reproductor multimedia multiformato.",
+    "Category": "Reproductores & Multimedia",
+    "Type": "WinGet",
+    "PathOrId": "VideoLAN.VLC",
+    "Arguments": "--silent",
+    "Preset": "Basico",
+    "Icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/960px-VLC_Icon.svg.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "Spotify",
+    "Description": "Reproductor de música en streaming.",
+    "Category": "Reproductores & Multimedia",
+    "Type": "WinGet",
+    "PathOrId": "Spotify.Spotify",
+    "Arguments": "--silent",
+    "Preset": "Gaming",
+    "Icon": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "WinRAR 64-bit",
+    "Description": "Compresor y descompresor de archivos rar/zip.",
+    "Category": "Compresores & Herramientas",
+    "Type": "WinGet",
+    "PathOrId": "RARLab.WinRAR",
+    "Arguments": "--silent",
+    "Preset": "Basico",
+    "Icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRssWgc-K7zpF7u7sQLPVk2StRqy4vkgxOpHRxxjwD9VA&s",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "7-Zip",
+    "Description": "Archivador de ficheros open-source de alta compresión.",
+    "Category": "Compresores & Herramientas",
+    "Type": "WinGet",
+    "PathOrId": "7zip.7zip",
+    "Arguments": "--silent",
+    "Preset": "Basico",
+    "Icon": "https://cdn-icons-png.flaticon.com/512/1006/1006771.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "Malwarebytes",
+    "Description": "Antivirus y limpiador de malware en tiempo real.",
+    "Category": "Seguridad & Antivirus",
+    "Type": "WinGet",
+    "PathOrId": "Malwarebytes.Malwarebytes",
+    "Arguments": "--silent",
+    "Preset": "Basico",
+    "Icon": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  },
+  {
+    "Name": "CDBurnerXP",
+    "Description": "Aplicación gratuita para quemar CD, DVD y Blu-Ray.",
+    "Category": "Quemadores & Discos",
+    "Type": "WinGet",
+    "PathOrId": "Canenum.CDBurnerXP",
+    "Arguments": "--silent",
+    "Preset": "Basico",
+    "Icon": "https://cdn-icons-png.flaticon.com/512/528/528343.png",
+    "PostInstallCommand": "",
+    "IsSelected": false
+  }
+]

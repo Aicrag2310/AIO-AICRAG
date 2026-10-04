@@ -1,0 +1,105 @@
+﻿<Application x:Class="AIO_Aicrag.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+
+    <Application.Resources>
+
+        <ResourceDictionary>
+
+            <!-- ================================================= -->
+            <!-- COLORES GLOBALES DE AIO AICRAG -->
+            <!-- ================================================= -->
+
+            <SolidColorBrush x:Key="BgWindow"
+                             Color="#0F1117"/>
+
+            <SolidColorBrush x:Key="BgSidebar"
+                             Color="#151923"/>
+
+            <SolidColorBrush x:Key="BgCard"
+                             Color="#1B202C"/>
+
+            <SolidColorBrush x:Key="BgItem"
+                             Color="#202633"/>
+
+            <SolidColorBrush x:Key="BgHover"
+                             Color="#292F3D"/>
+
+
+            <!-- ================================================= -->
+            <!-- TEXTOS -->
+            <!-- ================================================= -->
+
+            <SolidColorBrush x:Key="TextPrimary"
+                             Color="#FFFFFF"/>
+
+            <SolidColorBrush x:Key="TextSecondary"
+                             Color="#A8B0C0"/>
+
+            <SolidColorBrush x:Key="TextMuted"
+                             Color="#6F788A"/>
+
+
+            <!-- ================================================= -->
+            <!-- BORDES -->
+            <!-- ================================================= -->
+
+            <SolidColorBrush x:Key="BorderColor"
+                             Color="#2C3342"/>
+
+
+            <!-- ================================================= -->
+            <!-- AZUL -->
+            <!-- ================================================= -->
+
+            <SolidColorBrush x:Key="Accent"
+                             Color="#2563EB"/>
+
+            <SolidColorBrush x:Key="AccentHover"
+                             Color="#1D4ED8"/>
+
+            <SolidColorBrush x:Key="AccentLight"
+                             Color="#3B82F6"/>
+
+
+            <!-- ================================================= -->
+            <!-- ROJO -->
+            <!-- ================================================= -->
+
+            <SolidColorBrush x:Key="AccentRed"
+                             Color="#DC2626"/>
+
+            <SolidColorBrush x:Key="AccentRedHover"
+                             Color="#B91C1C"/>
+
+
+            <!-- ================================================= -->
+            <!-- ESTADOS -->
+            <!-- ================================================= -->
+
+            <SolidColorBrush x:Key="Success"
+                             Color="#22C55E"/>
+
+            <SolidColorBrush x:Key="Warning"
+                             Color="#F59E0B"/>
+
+            <SolidColorBrush x:Key="Danger"
+                             Color="#EF4444"/>
+
+
+            <!-- ================================================= -->
+            <!-- CONSOLA -->
+            <!-- ================================================= -->
+
+            <SolidColorBrush x:Key="ConsoleBg"
+                             Color="#090B10"/>
+
+            <SolidColorBrush x:Key="ConsoleText"
+                             Color="#9FE870"/>
+
+        </ResourceDictionary>
+
+    </Application.Resources>
+
+</Application>
